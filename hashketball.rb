@@ -68,24 +68,24 @@ def game_hash
       players: [
         { 
           player_name: "Jeff Adrien",
-          number: 0,
-          shoe: 16,
-          points: 22,
-          rebounds: 12,
-          assists: 12,
-          steals: 3,
-          blocks: 1,
-          slam_dunks: 1
+          number: 4,
+          shoe: 18,
+          points: 10,
+          rebounds: 1,
+          assists: 1,
+          steals: 2,
+          blocks: 7,
+          slam_dunks: 2
         },
         {
           player_name: "Bismack Biyombo",
-          number: 30,
-          shoe: 14,
+          number: 0,
+          shoe: 16,
           points: 12,
-          rebounds: 12,
-          assists: 12,
-          steals: 12,
-          blocks: 12,
+          rebounds: 4,
+          assists: 7,
+          steals: 22,
+          blocks: 15,
           slam_dunks: 7
         },
         {
